@@ -1,6 +1,7 @@
 # 🚀 GPU-Optimized VLM Equipment Analyzer
 
 A high-performance Streamlit application that uses Vision Language Models (VLMs) to analyze power equipment for defects, maintenance issues, and safety concerns. Built for GPU acceleration with automatic fallbacks and memory optimization.
+<img width="1857" height="805" alt="image (6)" src="https://github.com/user-attachments/assets/25d47049-b6f8-484c-a056-4313cc78a697" />
 
 ## ✨ Features
 
